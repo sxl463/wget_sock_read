@@ -1,0 +1,48 @@
+parse_line 109
+(init.c:line 666 run_wgetrc)
+
+080709f6 1
+(main.c: main)
+
+0806c6bb 13
+(init.c:line 842 dehyphen)
+
+0808985d 2
+(init.c:line 818 c_isalnum)
+(while (p < end && (c_isalnum (*p) || *p == '_' || *p == '-')))
+
+0806e14a 2
+(init.c:line 1053 cmd_number)
+
+08089867 13
+(init.c:line 818 c_isalnum)
+(while (p < end && (c_isalnum (*p) || *p == '_' || *p == '-')))
+
+0806be93 6
+(init.c:line 843 command_by_name)
+(ind = command_by_name (cmdcopy);)
+
+0806c7a5 2
+(init.c:line 935 run_command)
+(switch (parse_line (cmdopt, &com, &val, &comind)))
+
+08089a7e 27
+0806c6e2 13
+0806c758 109
+0806c713 137
+0806e1a2 3
+080899ae 365
+0806cf95 2
+08089907 3
+08089a15 27
+0806cf25 2
+0806c7af 2
+080899b3 365
+08089a8f 27
+0806c7ea 2
+080899b8 228
+0806c6b1 13
+0806be82 9
+0806e140 2
+08089855 2
+08089850 15
